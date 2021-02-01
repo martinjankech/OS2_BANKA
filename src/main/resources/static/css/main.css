@@ -286,3 +286,15 @@ hr {
 	background: #333;
 	background-image: linear-gradient(to right, #ccc, #333, #ccc);
 }
+
+.footer{
+	text-decoration-line: underline;
+	text-align: center;
+padding: 30px;
+	background-color: honeydew;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	height:60px;
+}
