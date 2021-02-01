@@ -11,9 +11,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 
 import java.security.Principal;
 
-/**
- * Created by z00382545 on 10/23/16.
- */
+
 @Controller
 @RequestMapping("/user")
 public class UserController {
