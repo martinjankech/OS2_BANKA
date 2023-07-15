@@ -2,10 +2,10 @@
 Projekt v ramci predmetu OS 2 
 jednoduchá banková aplikácia 
 # použité technológie 
-Programovacie prostredia – IntelliJ, Eclipse
-Použité platformy – GitHub , Trello, Heroku
-Programovacie jazyky - Java Spring (tools-Hibernate),MySQL
-Frontend - HTML, CSS , Javascript, JQuery, Bootstrap, Thymeleaf
+* Programovacie prostredia – IntelliJ, Eclipse
+* Použité platformy – GitHub , Trello, Heroku
+* Programovacie jazyky - Java Spring (tools-Hibernate),MySQL
+* Frontend - HTML, CSS , Javascript, JQuery, Bootstrap, Thymeleaf
 # funkčný popis 
 * Časť programu registration zapisuje údaje zadané používateľom do databázy, zároveň kontroluje, či sa zadané používateľské meno a email nezhoduje s údajmi v databáze. V prípade že sa používateľské meno zhoduje s už existujúcim používateľským menom v databáze, vypíše že používateľské meno už existuje.
 * Login porovnáva používateľské meno a heslo zadané používateľom s existujúcimi údajmi v databáze. Ak sa tieto údaje zhodujú, používateľ bude prihlásený do systému a môže disponovať so svojim zostatkom na účte.
